@@ -1,4 +1,4 @@
-package com.digiwizkid.cameraAPIDemo;
+package com.digiwizkid.cameraIntentDemo;
 
 import org.junit.Test;
 

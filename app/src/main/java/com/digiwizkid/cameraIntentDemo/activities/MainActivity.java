@@ -1,4 +1,4 @@
-package com.digiwizkid.cameraAPIDemo.activities;
+package com.digiwizkid.cameraIntentDemo.activities;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
@@ -10,7 +10,7 @@ import android.support.v7.widget.AppCompatImageButton;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.digiwizkid.cameraAPIDemo.R;
+import com.digiwizkid.cameraIntentDemo.R;
 
 import java.io.IOException;
 

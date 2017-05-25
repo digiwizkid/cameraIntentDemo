@@ -1,4 +1,4 @@
-package com.digiwizkid.cameraAPIDemo;
+package com.digiwizkid.cameraIntentDemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
